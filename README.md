@@ -69,5 +69,9 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 * Many Many Thanks to [affordis.pk](https://affordis.pk) who is sponsoring this work.
 
 
+# Note:
+  *Waiting for your suggestions.If you find any lag in documentation in any ways,shoot me an email at hasanlateef@outlook.com
+
+
 
 
