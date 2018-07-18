@@ -1,6 +1,6 @@
 # imutils_js
 
-is a bunch of javascript functions which wraps around the [opencv_js](http://opencv.org/) functions to do image processing tasks more conveniently at the client side of web application.
+ A bunch of javascript functions which wraps around the [opencv_js](http://opencv.org/) functions to do image processing tasks more conveniently at the client side of web application.
 
 By this release,we can do translation,rotation and resizing(it take care of aspect ratio if required) in images.
 # Lets talk about the functions currently available in imutils_js 
@@ -70,7 +70,7 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 
 
 # Note:
-  *Waiting for your suggestions.If you find any lag in documentation in any ways,shoot me an email at hasanlateef@outlook.com
+  * Waiting for your suggestions.If you find any lag in documentation in any ways,shoot me an email at hasanlateef@outlook.com
 
 
 
