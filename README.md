@@ -60,7 +60,7 @@ returns array of image,width_of_resized_image,height_of_resized_image.
 
 ## Having problems?
 
-If you run into problems, please read the [Common Errors](https://github.com/ageitgey/face_recognition/wiki/Common-Errors) section of the wiki before filing a github issue.
+If you run into problems, please read the [Common Errors](https://github.com/ageitgey/imutils_js/wiki/Common-Errors) section of the wiki before filing a github issue.
 
 ## Thanks
 
