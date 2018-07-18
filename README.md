@@ -12,7 +12,7 @@ translation(image,x,y)
 /*image:on which translation is required
 x:translation along x_axis
 y:translation along y-axis
-returns output image which has to be shown in canvas element
+returns:output image which has to be shown in canvas element
 */
 ```
 * ## Rotation
@@ -24,7 +24,7 @@ rotation(image,x,y)
 angle:how much rotation(currently accepts value in degree)
 center_x: x-Axis of rotation
 center_y: y-axis of roatation
-returns output image which has to be shown in canvas element
+returns: output image which has to be shown in canvas element
 */
 ```
 
@@ -38,7 +38,7 @@ resize(image,x,y)
 width:how much width is required.(if provided and height=0 resize the image by taking care of its aspect ratio )
 height:how much height is required.(if provided and width = 0 ,resize the image by taking care of its aspect ratio)
            if both width and height are given resize the image by the given parameters.
-returns array of image,width_of_resized_image,height_of_resized_image.
+returns: array of image,width_of_resized_image,height_of_resized_image.
 
 */
 ```
