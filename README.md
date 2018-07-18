@@ -65,7 +65,7 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 ## Thanks
 
 * Many, many thanks to [opencv](https://opencv.org) for providing the actual implementation  of algorithm.
-* This project is inspired from the work of [Dr.Adrian Rosbrock](https://github.com/jrosebr1/imutils).
+* This work is inspired from the work() of [Dr.Adrian Rosbrock](https://github.com/jrosebr1/imutils).who actually did this in python
 * Many Many Thanks to [affordis.pk](https://affordis.pk) who is sponsoring this work.
 
 
