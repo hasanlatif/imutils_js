@@ -51,7 +51,7 @@ returns: array of image,width_of_resized_image,height_of_resized_image.
 
  # How to use it?
 
-* Download the whole package.execute the test.php in test folder through the server.
+* Download the whole package.Execute the  ``test.php`` in ``test`` folder through the server.
  
 ![]( https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/local_host.gif)
 
