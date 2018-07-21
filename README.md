@@ -20,7 +20,7 @@ returns:output image which has to be shown in canvas element
 ```java script
 rotation(image,x,y)
 
-/*image:on which translation is required
+/*image:on which rotation is required
 angle:how much rotation(currently accepts value in degree)
 center_x: x-Axis of rotation
 center_y: y-axis of roatation
@@ -34,7 +34,7 @@ returns: output image which has to be shown in canvas element
 ```java script
 resize(image,x,y)
 
-/*image:on which translation is required
+/*image:on which resizing is required
 width:how much width is required.(if provided and height=0 resize the image by taking care of its aspect ratio )
 height:how much height is required.(if provided and width = 0 ,resize the image by taking care of its aspect ratio)
            if both width and height are given resize the image by the given parameters.
